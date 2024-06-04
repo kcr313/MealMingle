@@ -11,8 +11,10 @@ Features
 - Network Requests handled by Alamofire
 - Animations integrated with Lottie
 
-  
 Images
+
+
+
 <img width="487" alt="Screenshot 2024-06-04 at 14 13 08" src="https://github.com/kcr313/MealMingle/assets/98332402/43d8d1d8-6e90-4e0e-902b-fbe8dcb66b93"> 
 
 <img width="487" alt="Screenshot 2024-06-04 at 14 13 11" src="https://github.com/kcr313/MealMingle/assets/98332402/7550ef00-5862-41fe-8884-1316b5947a93">
